@@ -1,0 +1,1 @@
+# nextjs-with-aws-lambda-sample
